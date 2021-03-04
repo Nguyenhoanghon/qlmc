@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5d6334fe3dc9c3d62411c06e"},"session_id":"cru3q929vr5r2uv0g32ghmqo11","data":"user_id|s:24:\"5926a9f6a40183742000003a\";roles|C:23:\"MongoDB\\Model\\BSONArray\":37:{x:i:0;a:1:{i:0;s:5:\"ADMIN\";};m:a:0:{}}","timedout_at":1566799542,"expired_at":1566818718}

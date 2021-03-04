@@ -1,0 +1,22 @@
+{
+    "name": "pmtrung/blu",
+    "description": "Chuong trinh Quan ly Minh chung Tu Danh gia",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "Phan Minh Trung",
+            "email": "trungminhphan@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {
+        "mongodb/mongodb": "^1.4",
+        "phpoffice/phpspreadsheet": "^1.7",
+        "phpoffice/phpword": "^0.16.0"
+    },
+	"autoload": {
+        "psr-4": {
+            "Models\\": "models/"
+        }
+    }
+}

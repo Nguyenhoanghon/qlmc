@@ -1,0 +1,14 @@
+{"_id":{"$oid":"5927a2cba40183dc22000032"},"ten":"Ảnh chụp","thutu":0}
+{"_id":{"$oid":"5927a2f1a401832028000034"},"ten":"Tờ trình","thutu":1}
+{"_id":{"$oid":"5927a31aa40183dc22000033"},"ten":"Thông tư","thutu":2}
+{"_id":{"$oid":"5927a322a40183dc22000034"},"ten":"Thông báo","thutu":3}
+{"_id":{"$oid":"5927a32fa40183dc22000035"},"ten":"Quyết định","thutu":4}
+{"_id":{"$oid":"5927a336a40183dc22000036"},"ten":"Nghị quyết","thutu":5}
+{"_id":{"$oid":"5927a341a40183dc22000037"},"ten":"Kế hoạch","thutu":6}
+{"_id":{"$oid":"5927a34aa40183dc22000038"},"ten":"Hợp đồng","thutu":7}
+{"_id":{"$oid":"5927a356a40183dc22000039"},"ten":"Công văn","thutu":8}
+{"_id":{"$oid":"5927a35aa40183dc2200003a"},"ten":"Chỉ thị","thutu":9}
+{"_id":{"$oid":"5927a365a40183dc2200003b"},"ten":"Biên bản","thutu":10}
+{"_id":{"$oid":"5927a370a40183dc2200003c"},"ten":"Văn bản khác","thutu":11}
+{"_id":{"$oid":"59c4643b42f76464018b4568"},"ten":"Tổ chức quản lý","thutu":{"$numberLong":"1"}}
+{"_id":{"$oid":"5d63423e34adc0331400446d"},"ten":"ABC","thutu":1}
